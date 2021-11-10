@@ -1,6 +1,6 @@
 {
-  "name": "react-crud",
-  "homepage": "https://sanjanaekanayake.github.io/GroceryList/",
+  "name": "grocery-list",
+  "homepage": "https://sanjanaekanayake.github.io/grocery-list/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
