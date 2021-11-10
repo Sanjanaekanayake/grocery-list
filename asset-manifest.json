@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Sanjanaekanayake/GroceryList/static/css/main.67ead218.chunk.css",
-    "main.js": "/Sanjanaekanayake/GroceryList/static/js/main.a3c2704a.chunk.js",
-    "main.js.map": "/Sanjanaekanayake/GroceryList/static/js/main.a3c2704a.chunk.js.map",
-    "runtime-main.js": "/Sanjanaekanayake/GroceryList/static/js/runtime-main.5df24c35.js",
-    "runtime-main.js.map": "/Sanjanaekanayake/GroceryList/static/js/runtime-main.5df24c35.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/Sanjanaekanayake/GroceryList/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.016f4c19.chunk.js": "/Sanjanaekanayake/GroceryList/static/js/2.016f4c19.chunk.js",
-    "static/js/2.016f4c19.chunk.js.map": "/Sanjanaekanayake/GroceryList/static/js/2.016f4c19.chunk.js.map",
-    "index.html": "/Sanjanaekanayake/GroceryList/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/Sanjanaekanayake/GroceryList/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.67ead218.chunk.css.map": "/Sanjanaekanayake/GroceryList/static/css/main.67ead218.chunk.css.map",
-    "static/js/2.016f4c19.chunk.js.LICENSE.txt": "/Sanjanaekanayake/GroceryList/static/js/2.016f4c19.chunk.js.LICENSE.txt"
+    "main.css": "/GroceryList/static/css/main.67ead218.chunk.css",
+    "main.js": "/GroceryList/static/js/main.a3c2704a.chunk.js",
+    "main.js.map": "/GroceryList/static/js/main.a3c2704a.chunk.js.map",
+    "runtime-main.js": "/GroceryList/static/js/runtime-main.20174e24.js",
+    "runtime-main.js.map": "/GroceryList/static/js/runtime-main.20174e24.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/GroceryList/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.016f4c19.chunk.js": "/GroceryList/static/js/2.016f4c19.chunk.js",
+    "static/js/2.016f4c19.chunk.js.map": "/GroceryList/static/js/2.016f4c19.chunk.js.map",
+    "index.html": "/GroceryList/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/GroceryList/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.67ead218.chunk.css.map": "/GroceryList/static/css/main.67ead218.chunk.css.map",
+    "static/js/2.016f4c19.chunk.js.LICENSE.txt": "/GroceryList/static/js/2.016f4c19.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5df24c35.js",
+    "static/js/runtime-main.20174e24.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.016f4c19.chunk.js",
     "static/css/main.67ead218.chunk.css",
