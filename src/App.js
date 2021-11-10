@@ -10,9 +10,18 @@ import { useState } from 'react';
 
 function App(){
 
-    const [items, setItems] = useState(JSON.parse(localStorage.getItem('shoppinglist'))) 
+    
+    const shoppingitem = localStorage.getItem('shoppinglist')
+    
+    const [items, setItems] = useState(() => {
+      const initialState = shoppingitem.length ? JSON.parse(shoppingitem) : [] ;
+      return initialState;
+    });
+   
+
     const [newItem, setNewItem] = useState('')
     const [search, setSearch] = useState('')
+   
 
     const handleCheck = (id) => {
       const listItems = items.map((item) => item.id === id ? { ...item, checked: !item.checked } : item);
